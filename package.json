@@ -19,7 +19,7 @@
     "hoodie-server"
   ],
   "dependencies": {
-    "hoodie": "2.1.1",
+    "hoodie": "27.1.2",
     "hoodie-admin-dashboard": "^2.0.0",
     "hoodie-admin-dashboard-uikit": "^3.0.0",
     "hoodie-plugin-appconfig": "^2.0.1",
@@ -28,13 +28,13 @@
     "hoodie-server": "^5.0.0"
   },
   "devDependencies": {
-    "grunt-cli": "^0.1.13",
+    "grunt-cli": "^1.2.0",
     "hoodie-integration-test": "^1.0.9",
     "hoodie-plugin-test": "^1.0.0",
     "mkdirp": "^0.5.1",
     "my-first-hoodie": "^3.2.1",
     "rimraf": "^2.4.2",
-    "semantic-release": "^4.0.3"
+    "semantic-release": "^6.3.2"
   },
   "homepage": "https://github.com/hoodiehq/hoodie#readme",
   "hoodie": {
