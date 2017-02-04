@@ -2,6 +2,8 @@
 
 # Welcome to Hoodie 🎉
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Charlotteis/hoodie.svg)](https://greenkeeper.io/)
+
 [![Join our Chat](https://img.shields.io/badge/Chat-IRC%20or%20Slack-blue.svg)](http://hood.ie/chat)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
